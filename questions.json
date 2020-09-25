@@ -1,0 +1,45 @@
+{
+	"questions": [
+
+{
+       "question":"How do you declare a Promise?"},
+{
+       "question": "What is the main difference between primitive types and objects?"},
+{
+       "question":"What are websockets?"},
+{
+       "question":"What are the components of an HTML page?"},
+{
+	"question": "What are the differences between 'pass by value' and 'pass by reference'?"},
+{
+       "question":"What are the differences among var, let, const?"},
+{
+       "question":"What is TCP?"},
+{
+       "question":"What is an IIFE?"},
+{
+       "question":"What is the difference between a compiled language and an interpreted one?"},
+{
+       "question":"Why should you use strict mode?"},
+{
+       "question":"How do you implemenent a switch conditional?"},
+{
+       "question":"How can you clone an object?"},
+{
+       "question":"What is hoisting?"},
+{
+       "question":"What is recursion?"},
+{
+       "question":"What are the differences between a JS object and JSON?"},
+{
+       "question":"How can you tell what type a value is?"},
+{
+       "question":"What are the ways we can break out of a for, for..of or while loop?"},
+{
+       "question":"What is fetch?"},
+{
+       "question":"What is a ternary operator?"},
+{
+       "question":"What attributes do you include in the opening tag for a form?"}
+]
+}
