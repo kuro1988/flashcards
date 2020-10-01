@@ -1,0 +1,26 @@
+body, button {
+  margin-top: 20px;
+  font-family: 'Fredoka One', cursive;
+}
+
+#hero {
+  height: 300px;
+  line-height: 300px;
+  text-align: center;
+  color: white;
+  background: #3a7bd5;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3a6073, #3a7bd5);
+  background: linear-gradient(to right, #3a6073, #3a7bd5);
+}
+
+#text {
+  font-size: 35px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  padding: 5%
+}
+
+.title {
+  text-align: center;
+}
