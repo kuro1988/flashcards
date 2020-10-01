@@ -1,6 +1,8 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
 
+import QuestionBox from './components/QuestionBox'
+
 const url = 'https://raw.githubusercontent.com/kuro1988/flashcards/master/questions.json'
 
 const App = () => {
@@ -38,29 +40,7 @@ const App = () => {
 }
 
 // define the child component and use object destructuring to retrieve props
-const QuestionBox = ({question, updateQuestion}) => {
-  return (
-    <div id="question-box">
 
-      <div id="hero">
-
-        <p id="text" className="question">
-        {question}
-        <br />
-        </p>
-
-      </div>
-
-      <div className="buttons is-centered">
-        <button id="new-question" onClick={updateQuestion} className="button is-info">
-          New Question
-        </button>
-
-      </div>
-
-    </div>
-  )
-}
 
 export default App;
 
